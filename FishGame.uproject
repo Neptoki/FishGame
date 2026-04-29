@@ -22,10 +22,6 @@
 		{
 			"Name": "ProceduralVegetationEditor",
 			"Enabled": true
-		},
-		{
-			"Name": "Fab",
-			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
